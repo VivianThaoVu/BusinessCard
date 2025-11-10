@@ -1,0 +1,23 @@
+body{
+    font-family: "Google Sans Code";
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.avatar {
+    width: 150px;
+}
+.border-blue {
+    border: dotted blue 1px;
+    
+}
+.card {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom:#ffef9f solid 5px;
+    background-color: #60d394;
+    color: #134611;
+    
+}
